@@ -1,5 +1,6 @@
 {
   "name": "HomeSpan",
   "app_id": "bca583ec",
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "integrations": {}
 }
