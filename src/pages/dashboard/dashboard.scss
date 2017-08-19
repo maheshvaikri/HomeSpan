@@ -1,3 +1,29 @@
+.ios, .md {
 page-dashboard {
+    
+ 
+    ion-card{
+
+        max-width: 500px;
+
+        }
+    ion-card-content{
+        padding: 5px;
+        max-width: 500px;
+
+    }
+    canvas{
+
+        padding: 5px;
+    }
+       
+ 
+    ion-card-header {
+            font-weight: bold;
+        }
+ 
+    
+ 
+}
 
 }
